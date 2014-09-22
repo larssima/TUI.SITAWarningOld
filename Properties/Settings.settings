@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SITAWarning.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="CheckInterval" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">20000</Value>
+    </Setting>
+    <Setting Name="Mailaddresses" Type="System.String" Scope="User">
+      <Value Profile="(Default)">lars.sima@fritidsresor.se;lars.sima@tuifly.se</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

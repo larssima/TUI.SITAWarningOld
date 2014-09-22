@@ -1,0 +1,17 @@
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.SetupForm.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\SITAWarning.csproj.GenerateResource.Cache
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\SITAWarning.exe.config
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\SITAWarning.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\SITAWarning.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\SITAWarning.Properties.Resources.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\SITAWarning.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\SITAWarning.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\bin\Debug\SITAWarning.exe.config
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\SITAWarning.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\SITAWarning.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\bin\Debug\SITAWarning.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\bin\Debug\SITAWarning.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\SITAWarning.csprojResolveAssemblyReference.cache
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\DialogFinder.SetupForm.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\SITAWarning.Properties.Resources.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\SITAWarning\obj\Debug\SITAWarning.csproj.GenerateResource.Cache

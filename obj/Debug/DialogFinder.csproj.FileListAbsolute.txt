@@ -1,0 +1,9 @@
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\DialogFinder.exe.config
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.Properties.Resources.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.csproj.GenerateResource.Cache
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\DialogFinder.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\bin\Debug\DialogFinder.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.exe
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.pdb
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.SetupForm.resources
+C:\Users\lars.sima.NORDIC\Documents\GitHub\DialogFinder\DialogFinder\obj\Debug\DialogFinder.csprojResolveAssemblyReference.cache
